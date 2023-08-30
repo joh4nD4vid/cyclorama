@@ -11,6 +11,7 @@ Browse for the file. Once installed, check the "Cyclorama" box in the list of ad
 
 ## Usage
 Right-click on any 3D object in your scene. Choose the "Cyclorama" option at the bottom of the menu.
+![Click on "Cyclorama" in the "Object context menu. ](readme_image.png "Button picture").
 
 
 ### Future updates
