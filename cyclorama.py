@@ -92,6 +92,8 @@ class OBJECT_OT_cyclorama(bpy.types.Operator):
             bpy.context.view_layer.objects.active = bpy.data.objects['Cyclorama']
             bpy.ops.material.new()
             cyclorama_materiel = bpy.data.materials[-1]
+
+            # Réglage des spéculaires et attribution du matériau
             cyclorama_materiel.node_tree.nodes["Principled BSDF"].inputs[7].default_value = 0.85
             Cyclo_object = bpy.data.objects["Cyclorama"]
             Cyclo_object.data.materials.append(cyclorama_materiel)
