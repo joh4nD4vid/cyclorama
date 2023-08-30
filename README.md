@@ -1,23 +1,22 @@
 # Cyclorama
 
-Cet add-on pour Blender vous permet de mettre d'éclairer automatiquement un objet à la manière d'un shooting photo, grâce à un éclairage trois points et un cyclorama. Il vous aidera à créer rapidement des rendus de présentation pertinents.
+This add-on for Blender lets you automatically light an object in the style of a photo shoot, using three-point lighting and cyclorama. It will help you quickly create relevant presentation renderings.
 
 ## Installation
 
-**Téléchargez le fichier cyclorama.py**
-Ensuite, dans Blender :
+**Download the cyclorama.py file** 
+Then, in Blender:
 
-Edit -> Préférences -> Add-ons -> Install
+Edit -> Preferences -> Add-ons -> Install
 
-Allez cherchez le fichier. Une fois installé, cochez la case "Cyclorama" dans la liste des add-ons afin de l'activer.
-Cela nécessitera peut-être le redémarrage du logiciel pour être pris en compte.
+Browse for the file. Once installed, check the "Cyclorama" box in the list of add-ons to activate it. This may require a software restart to take effect.
 
-## Utilisation
+## Usage
 
-Faites un clic droit sur n'importe quel objet 3D de votre scène. Choisissez l'option "Cyclorama", tout en bas du menu.
+Right-click on any 3D object in your scene. Choose the "Cyclorama" option at the bottom of the menu.
 
 
-### Futures updates
-- [ ] Possibilité de créer des fichiers de présets de rendu et de pouvoir les sélectionner
-- [ ] Des sliders pour faire pivoter les éclairages rapidement autour de l'objet
-- [ ] Des boutons pour changer les couleurs des lumières, ou choisir des ensembles de couleurs pertinents
+### Future updates
+[ ] Ability to create and select rendering preset files
+[ ] Sliders to quickly rotate lights around the object
+[ ] Buttons to change light colors, or choose relevant color sets
