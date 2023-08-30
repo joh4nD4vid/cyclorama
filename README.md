@@ -3,6 +3,7 @@ This add-on for Blender lets you automatically light an object in the style of a
 
 ## Installation
 **Download the cyclorama.py file** 
+
 Then, in Blender:
 Edit -> Preferences -> Add-ons -> Install
 
